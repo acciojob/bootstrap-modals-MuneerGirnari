@@ -1,2 +1,4 @@
-
+div.modal-dialog{
+	transform: translate(0, 100%);
+}
 /* Your CSS Code here. */
